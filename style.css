@@ -4,7 +4,9 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Play', sans-serif;
+    overflow: hidden;
 }
+
 
 .bg{
     background-image: url('images/BG.png');
