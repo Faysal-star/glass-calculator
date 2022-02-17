@@ -54,7 +54,13 @@
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     background-color: rgba(255, 255, 255, 0.02);
     z-index: ;
+    width: 360px;
     
+}
+@media (max-width : 480px){
+   .calculator{
+       margin: 80px 10px;
+   }
 }
 
 #equation{
